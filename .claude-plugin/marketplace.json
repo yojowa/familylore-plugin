@@ -1,0 +1,17 @@
+{
+  "name": "familylore",
+  "owner": {
+    "name": "Yojowa LLC",
+    "email": "support@yojowa.com"
+  },
+  "metadata": {
+    "description": "FamilyLore for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "familylore",
+      "source": "./",
+      "description": "Reads handwritten family letters in old scripts (Russian and Ukrainian cursive, German Kurrent and Sütterlin, Yiddish) and translates them, with notes on what they meant at the time."
+    }
+  ]
+}

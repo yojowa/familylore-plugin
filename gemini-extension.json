@@ -1,0 +1,11 @@
+{
+  "name": "familylore",
+  "version": "1.0.0",
+  "description": "Reads handwritten family letters in old scripts (Russian and Ukrainian cursive, German Kurrent and Sütterlin, Yiddish) and translates them, with notes on what they meant at the time.",
+  "mcpServers": {
+    "familylore": {
+      "httpUrl": "https://familylore.ai/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
